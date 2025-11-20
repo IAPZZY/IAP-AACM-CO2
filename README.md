@@ -130,7 +130,7 @@ If you use the materials or findings in this repository, please cite:
 * Xu Zhou
 * Huansheng Chen
 * Zijian Jiang
-* Zifa Wang
+* Zifa Wang\*
 
 \*Corresponding authors
 
