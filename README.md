@@ -114,21 +114,6 @@ Model source codes are available **upon reasonable request** to the correspondin
 
 ---
 
-## 📂 Data Availability
-
-All datasets used in this research are publicly available:
-
-| Dataset                     | Access Link                                                              |
-| --------------------------- | ------------------------------------------------------------------------ |
-| CarbonTracker CT2022        | [http://carbontracker.noaa.gov](http://carbontracker.noaa.gov)           |
-| OCO-2 XCO₂ V11.1r           | [https://disc.gsfc.nasa.gov](https://disc.gsfc.nasa.gov)                 |
-| NOAA GML Surface CO₂        | [https://gml.noaa.gov](https://gml.noaa.gov)                             |
-| GLOBALVIEWplus ObsPack v8.0 | [https://gml.noaa.gov/ccgg/obspack/](https://gml.noaa.gov/ccgg/obspack/) |
-
-Details on how these datasets were used can be found in the manuscript.
-
----
-
 ## 📝 Citation
 
 If you use the materials or findings in this repository, please cite:
