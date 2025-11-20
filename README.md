@@ -1,4 +1,4 @@
-# 🛰️ Global Atmospheric CO₂ Simulations with IAP-AACM Using an Improved Vertical Diffusion Scheme and Multi-Source Evaluation
+<img width="224" height="81" alt="image" src="https://github.com/user-attachments/assets/38b9a4d5-46eb-4309-9f01-c9d6dee1e35a" /># 🛰️ Global Atmospheric CO₂ Simulations with IAP-AACM Using an Improved Vertical Diffusion Scheme and Multi-Source Evaluation
 
 **Institute of Atmospheric Physics, Chinese Academy of Sciences (CAS-IAP)**
 **Correspondence:** [wangzhe@mail.iap.ac.cn](mailto:wangzhe@mail.iap.ac.cn), [zifawang@mail.iap.ac.cn](mailto:zifawang@mail.iap.ac.cn)
@@ -17,7 +17,7 @@ This improvement corrects the common **overestimation of nighttime CO₂ near th
 
 ---
 
-## ✨ Key Features
+## ✨ Highlights
 
 * **New SBL vertical diffusion scheme** improves PBL mixing representation
 * Corrects **overestimated nighttime CO₂** in stable boundary layers
